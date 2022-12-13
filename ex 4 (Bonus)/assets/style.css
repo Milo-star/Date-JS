@@ -1,1 +1,32 @@
-/*# sourceMappingURL=style.css.map */
+/* RESET */
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+body {
+  width: 100vw;
+  height: 100vw;
+  background-color: gray;
+}
+
+/* RESET */
+/* CSS */
+#parent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#day {
+  background-color: red;
+}
+
+#mois {
+  background-color: white;
+}
+
+#ans {
+  background-color: red;
+}/*# sourceMappingURL=style.css.map */
